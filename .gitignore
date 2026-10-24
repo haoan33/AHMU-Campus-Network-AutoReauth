@@ -1,0 +1,22 @@
+# 敏感配置文件（包含学号与明文密码，严禁提交到开源仓库）
+campus_config.json
+
+# 运行日志
+*.log
+carrier_switch.log
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller 打包临时目录与规范文件
+build/
+dist/
+*.spec
+
+# 系统与编辑器配置
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
