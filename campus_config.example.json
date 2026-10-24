@@ -1,0 +1,14 @@
+{
+  "portal_ip": "10.0.2.2",
+  "ep_port": "801",
+  "account": "你的学号@telecom",
+  "password": "你的校园网密码",
+  "check_interval_seconds": 20,
+  "target_carrier_keywords": [
+    "电信",
+    "telecom",
+    "ctnet",
+    "chinatelecom"
+  ],
+  "auto_reconnect_enabled": true
+}
